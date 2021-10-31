@@ -1,0 +1,27 @@
+{
+  "name": "",
+  "symbol": "SSH",
+  "description": "Some randomart for some random key",
+  "seller_fee_basis_points": 1000,
+  "image": "",
+  "attributes": "",
+  "collection": {
+     "name": "solkeys.ssh",
+     "family": "RandomArt"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Fzz1Ub4uukY5xDYWLfPhKZxE1pq2BdWPrukMn2BcWfkV",
+        "share": 100
+      }
+    ]
+  }
+}
